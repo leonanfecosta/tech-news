@@ -51,7 +51,7 @@ Legenda:
  
 1 - Clone o repositório
     
-    git clone git@github.com:Vitosoaresp/tech-news.git
+    git@github.com:leonanfecosta/tech-news.git
 
 2 - Crie ambiente virtual e instale as dependências
 
